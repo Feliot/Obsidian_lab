@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"b8e75c43ca3ab619","type":"text","text":"https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference","x":-220,"y":-780,"width":460,"height":180,"color":"1"},
+		{"id":"50657909cd623301","type":"file","file":"Factor de Potencia.md","x":-240,"y":-520,"width":400,"height":400},
+		{"id":"9d68e19a5971675f","x":-279,"y":-611,"width":519,"height":111,"type":"text","text":"\nMake a note of something, [[bt_ar_bi_isu_cliente_medidor_historico]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!\n\nWhen you're ready, delete this note and make the vault your own."}
+	],
+	"edges":[]
+}

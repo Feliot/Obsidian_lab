@@ -1,0 +1,2 @@
+#data_warehousing #data_warehouse #redshift 
+El #data_warehousing es un proceso de almacenamiento y gestión de datos diseñado para facilitar el análisis y la generación de informes en una empresa. Se basa en la consolidación de datos de múltiples fuentes en una única ubicación centralizada, llamada almacén de datos ( #data_warehouse ), donde los datos se organizan y estructuran de manera que sean fáciles de acceder y analizar.

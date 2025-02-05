@@ -1,0 +1,3 @@
+#latitud #longitud
+- **Latitud**: La #latitud  es la distancia medida en grados desde el ecuador hasta un punto ubicado en la superficie de la Tierra, ya sea hacia el norte (latitud norte) o hacia el sur (latitud sur). La latitud se mide en un rango de -90° a +90°, donde 0° se encuentra en el ecuador, +90° en el polo norte y -90° en el polo sur.
+- **Longitud**: La #longitud  es la distancia medida en grados desde el meridiano de Greenwich hasta un punto ubicado en la superficie de la Tierra, ya sea hacia el este (longitud este) o hacia el oeste (longitud oeste). La longitud se mide en un rango de -180° a +180°, donde 0° se encuentra en el meridiano de Greenwich, +180° en el meridiano opuesto al este y -180° en el meridiano opuesto al oeste.
